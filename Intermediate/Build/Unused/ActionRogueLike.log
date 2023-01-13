@@ -1,0 +1,17 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\kokut\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (F:\ActionRogueLike).
+  Building ActionRogueLikeEditor...
+  Using Visual Studio 2022 14.34.31937 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Adaptive Build] Excluded from ActionRogueLike unity file: SCharacter.cpp, ActionRogueLike.cpp, ActionRogueLikeGameModeBase.cpp
+  Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+    Executing up to 8 processes, one per physical core
+  Building 4 actions with 4 processes...
+  [1/4] Compile SCharacter.cpp
+  [2/4] Link UnrealEditor-ActionRogueLike.lib
+    正在创建库 F:\ActionRogueLike\Intermediate\Build\Win64\UnrealEditor\Development\ActionRogueLike\UnrealEditor-ActionRogueLike.lib 和对象 F:\ActionRogueLike\Intermediate\Build\Win64\UnrealEditor\Development\ActionRogueLike\UnrealEditor-ActionRogueLike.exp
+  [3/4] Link UnrealEditor-ActionRogueLike.dll
+    正在创建库 F:\ActionRogueLike\Intermediate\Build\Win64\UnrealEditor\Development\ActionRogueLike\UnrealEditor-ActionRogueLike.suppressed.lib 和对象 F:\ActionRogueLike\Intermediate\Build\Win64\UnrealEditor\Development\ActionRogueLike\UnrealEditor-ActionRogueLike.suppressed.exp
+  [4/4] WriteMetadata ActionRogueLikeEditor.target
+  Total time in Parallel executor: 2.07 seconds
+  Total execution time: 2.57 seconds

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\actionroguelike\\source\\actionroguelike\\actionroguelike.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\actionroguelike\\intermediate\\build\\win64\\actionroguelikeeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "f:\\actionroguelike\\intermediate\\build\\win64\\unrealeditor\\development\\actionroguelike\\definitions.actionroguelike.h",
+            "f:\\actionroguelike\\source\\actionroguelike\\actionroguelike.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

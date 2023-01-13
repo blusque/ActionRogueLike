@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\ActionRogueLike\\Source\\ActionRogueLike\\ActionRogueLike.Build.cs",
+		"F:\\ActionRogueLike\\Source\\ActionRogueLike.Target.cs",
+		"F:\\ActionRogueLike\\Source\\ActionRogueLikeEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
