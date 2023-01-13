@@ -23,7 +23,7 @@ void ASCharacter::MoveForward(float value)
 
 void ASCharacter::MoveSide(float value) 
 {
-  AddMovementInput(GetActorRightVector(), value);
+	AddMovementInput(GetActorRightVector(), value);
 }
 
 // Called when the game starts or when spawned
@@ -46,6 +46,5 @@ void ASCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputComponen
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
 
 	PlayerInputComponent->BindAxis("Move Forward / Backward", this, &ASCharacter::MoveForward);
-  PlayerInputComponent->BindAxis("Move Right / Left", this, &ASCharacter::MoveSide);
+	PlayerInputComponent->BindAxis("Move Right / Left", this, &APawn::AddControllerYawInput);
 }
-
