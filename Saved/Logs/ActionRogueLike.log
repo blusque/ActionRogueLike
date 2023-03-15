@@ -1505,3 +1505,746 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.03.15-08.48.51:530][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.03.15-08.48.51:546][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
 [2023.03.15-08.48.51:577][400]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.03.15-09.10.32:229][495]LogDirectoryWatcher: Display: A directory notification failed for 'F:/ActionRogueLike/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2023.03.15-09.10.32:229][495]LogDirectoryWatcher: Display: A directory notification failed for 'F:/ActionRogueLike/Content/Developers/kokut/Collections/' because it could not be accessed. Aborting watch request...
+[2023.03.15-09.10.32:565][496]LogDirectoryWatcher: Display: A directory notification failed for 'F:/ActionRogueLike/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2023.03.15-09.11.14:273][228]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.11.14:273][228]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.13.45:484][545]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ActionRogueLike/Characters/PlayerCharacter.PlayerCharacter
+[2023.03.15-09.13.45:485][545]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.15-09.13.45:805][545]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.13.45:805][545]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.13.45:895][546]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.13.45:895][546]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.13.45:895][546]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.13.45:895][546]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.13.45:909][546]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.13.46:136][560]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.13.46:136][560]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.13.46:136][560]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.13.46:136][560]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.13.48:064][671]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-09.13.48:064][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-09.13.48:110][671]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ActionRogueLike/Characters/PlayerCharacter.PlayerCharacter
+[2023.03.15-09.13.48:110][671]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.15-09.13.48:500][671]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.13.48:500][671]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.13.48:500][671]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.13.48:500][671]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.13.48:790][687]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.13.48:790][687]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.13.48:790][687]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.13.48:790][687]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.13.49:202][711]LogSlate: Took 0.000822 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.03.15-09.13.50:232][764]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.13.52:012][866]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.15-09.13.53:228][932]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.13.53:228][932]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.13.53:228][932]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.13.53:228][932]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.13.53:228][932]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.13.53:228][932]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.13.53:228][932]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.13.53:228][932]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.13.54:209][987]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.13.54:209][987]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.13.57:125][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/MaterialLayers/Rubber/T_Blank_N.T_Blank_N (TFO_BC5, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.57:125][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/MaterialLayers/T_TestML_Mask.T_TestML_Mask (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.57:125][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/T_Black_Linear.T_Black_Linear (TFO_AutoDXT, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.57:125][140]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/ParagonYin/Characters/Global/Eyes/Textures/T_EpicQuadPanorama_CC.T_EpicQuadPanorama_CC', its maximum texture size has been explicitly set to 512.
+[2023.03.15-09.13.57:288][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/MaterialFunctions/Textures/T_AtmosphericCloudNoise01_N.T_AtmosphericCloudNoise01_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.57:288][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/MaterialFunctions/Textures/T_AtmosphericCloudNoise03.T_AtmosphericCloudNoise03 (BGRA8, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.57:288][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/MaterialFunctions/Textures/T_AtmosphericCloudNoise01.T_AtmosphericCloudNoise01 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.57:288][140]LogMaterial: Display: Missing cached shadermap for M_Yin_Armor in PCD3D_SM5, Default, SM5 (DDC key hash: DE781D78D4D215765E9457CC5FB335C175FBBF87), compiling. 
+[2023.03.15-09.13.57:601][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/MaterialLayers/Metal/T_Blue_Metal02.T_Blue_Metal02 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.57:601][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/MaterialLayers/Leather/T_Dark_Leather_N.T_Dark_Leather_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.57:601][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/MaterialLayers/Fabric/T_FineFabric01_N.T_FineFabric01_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.57:601][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/MaterialLayers/Metal/T_Gray_Flat_Black.T_Gray_Flat_Black (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.57:601][140]LogMaterial: Display: Missing cached shadermap for M_Yin_Whip_Core in PCD3D_SM5, Default, SM5 (DDC key hash: E2770C5937F1373C4340E77C68D80B4B24F0EA00), compiling. 
+[2023.03.15-09.13.57:678][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/MaterialLayers/Fabric/T_FineFabric01.T_FineFabric01 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.57:678][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/MaterialLayers/Metal/T_Metal_SandCast_Med_N.T_Metal_SandCast_Med_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.57:678][140]LogMaterial: Display: Missing cached shadermap for M_Yin_WhipHandle in PCD3D_SM5, Default, SM5 (DDC key hash: 9237848D341E136B01C4D0B6E9C40156555440C9), compiling. 
+[2023.03.15-09.13.57:886][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/MaterialLayers/Metal/T_Noise_Rough_Dark_Big.T_Noise_Rough_Dark_Big (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.57:886][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/MaterialLayers/Metal/T_ScratchMask.T_ScratchMask (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.57:886][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/MaterialLayers/Leather/T_Light_Leather2.T_Light_Leather2 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.57:886][140]LogMaterial: Display: Missing cached shadermap for M_Mouth_Master in PCD3D_SM5, Default, SM5 (DDC key hash: AC767E658C81DE66A97AD474621FE4F549321B72), compiling. 
+[2023.03.15-09.13.58:065][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/MaterialLayers/Rock/T_Gem_Translucent_01_N.T_Gem_Translucent_01_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.58:065][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Heroes/Yin/Textures/T_Cloud_Wisp_Chromatic_Tile.T_Cloud_Wisp_Chromatic_Tile (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.58:065][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/MaterialLayers/Rock/T_Gem_Translucent_01_RGBA.T_Gem_Translucent_01_RGBA (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.58:065][140]LogMaterial: Display: Missing cached shadermap for M_EyeRefractive in PCD3D_SM5, Default, SM5 (DDC key hash: 91B4335CFFEA5E961959D32536298E47152F3AD3), compiling. 
+[2023.03.15-09.13.58:328][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Heroes/Yin/Textures/T_Yin_Armor_MASK.T_Yin_Armor_MASK (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.58:328][140]LogMaterial: Display: Missing cached shadermap for M_Eye_Occlusion in PCD3D_SM5, High, SM5 (DDC key hash: DFBD4460E0E8EE186D01AF4F780B37E1828D7D10), compiling. 
+[2023.03.15-09.13.58:466][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Heroes/Yin/Textures/T_Yin_Armor_MASK_2.T_Yin_Armor_MASK_2 (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.58:466][140]LogMaterial: Display: Missing cached shadermap for M_HairSheet_Master2 in PCD3D_SM5, Default, SM5 (DDC key hash: 66A347AF31989D1FB6B070844EA04AAA1EE4D955), compiling. 
+[2023.03.15-09.13.58:807][140]LogMaterial: Display: Missing cached shadermap for M_Yin_Hair in PCD3D_SM5, Default, SM5 (DDC key hash: F15CD40662336D9E1A9C9B25D3443FEF0CDC1027), compiling. 
+[2023.03.15-09.13.59:096][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Heroes/Yin/Textures/T_Smooth_Gradient_Vertical_A.T_Smooth_Gradient_Vertical_A (TFO_AutoDXT, 64X2048 X1X1) (Required Memory Estimate: 2.500 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.59:096][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Heroes/Yin/Textures/T_Yin_Armor_RGBAO.T_Yin_Armor_RGBAO (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.59:096][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Heroes/Yin/Textures/T_WhipMask.T_WhipMask (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.59:096][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Heroes/Yin/Textures/T_Yin_Armor_N.T_Yin_Armor_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.59:096][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Heroes/Yin/Textures/T_Spores_Tile.T_Spores_Tile (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.59:096][140]LogMaterial: Display: Missing cached shadermap for M_TearLine in PCD3D_SM5, Default, SM5 (DDC key hash: 55E61D1584E3E832C1BA7F22F96254AA39D8B41C), compiling. 
+[2023.03.15-09.13.59:442][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/Mouth/Textures/T_Master_Mouth_1_COLOR.T_Master_Mouth_1_COLOR (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.59:442][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/Mouth/Textures/T_Master_Mouth_1_N.T_Master_Mouth_1_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.59:442][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/Mouth/Textures/T_Master_Mouth_1_RGB.T_Master_Mouth_1_RGB (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.59:442][140]LogMaterial: Display: Missing cached shadermap for M_EyelashMaster_N in PCD3D_SM5, Default, SM5 (DDC key hash: 6829EDAECC750136BF4B0290E02722F85182F3AF), compiling. 
+[2023.03.15-09.13.59:604][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/Mouth/Textures/T_TeethAndTongue_D2.T_TeethAndTongue_D2 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.59:604][140]LogMaterial: Display: Missing cached shadermap for M_Yin_Cloth in PCD3D_SM5, Default, SM5 (DDC key hash: 9320E36854B2FA7B3E419327136233F3F945E27F), compiling. 
+[2023.03.15-09.13.59:752][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/Mouth/Textures/T_TeethAndTongue_N.T_TeethAndTongue_N (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.59:752][140]LogMaterial: Display: Missing cached shadermap for M_Yin_ClothHang in PCD3D_SM5, Default, SM5 (DDC key hash: D4BED9022BCF0D7006AE8D795A7575CFC372D0A3), compiling. 
+[2023.03.15-09.13.59:996][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/Eyes/Textures/Example/T_EYE_NORMALS.T_EYE_NORMALS (TFO_BC5, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.59:996][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/Eyes/Textures/Example/T_EyeMidPlaneDisplacement_Example.T_EyeMidPlaneDisplacement_Example (RGBA16F, 1024X1024 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.59:996][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/Eyes/Textures/Example/T_Eye_Wet_Normal.T_Eye_Wet_Normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.59:996][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/Eyes/Textures/Example/T_EyeIrisBaseColor_Example_2.T_EyeIrisBaseColor_Example_2 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.59:996][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/Eyes/Textures/T_Yin_Corona_D.T_Yin_Corona_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.59:996][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/Eyes/Textures/Example/T_Sphere_EYE_NORMALS.T_Sphere_EYE_NORMALS (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.59:996][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/Eyes/Textures/Example/T_EyeScleraBaseColor_Example_2.T_EyeScleraBaseColor_Example_2 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.59:996][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/Eyes/Textures/T_DecalMask_Radial03.T_DecalMask_Radial03 (G8, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.13.59:996][140]LogMaterial: Display: Missing cached shadermap for M_Yin_Dangles in PCD3D_SM5, Default, SM5 (DDC key hash: F491B30E9C93511545E1E62001CAB3F57996DE34), compiling. 
+[2023.03.15-09.14.00:226][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/Eyes/Textures/T_Swirly_Noise.T_Swirly_Noise (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.00:226][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/Eyes/Textures/Example/T_EyeIrisBaseColor_Example_3.T_EyeIrisBaseColor_Example_3 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.00:226][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/Hair/T_gradient_stasis.T_gradient_stasis (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.00:226][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/Eyes/Textures/T_EyeOcclusion2.T_EyeOcclusion2 (G8, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.00:226][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/Hair/T_Caustics_2.T_Caustics_2 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.00:226][140]LogMaterial: Display: Missing cached shadermap for M_Yin_Head in PCD3D_SM5, Default, SM5 (DDC key hash: 47A5D9AA3EEE3EAC2E067E40C13C50C41EA044CE), compiling. 
+[2023.03.15-09.14.00:500][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/Hair/TestContent/T_HairClump02_Alpha.T_HairClump02_Alpha (G8, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.00:500][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/Hair/TestContent/T_HairClump02_ID.T_HairClump02_ID (G8, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.00:500][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/Hair/SharedHairContent/FemaleHair_Straight_Yin/T_Yin_Hair_ALPHA_Lte.T_Yin_Hair_ALPHA_Lte (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.00:500][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/Hair/TestContent/T_HairClump02_Roots.T_HairClump02_Roots (G8, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.00:500][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/Hair/TestContent/T_HairClump02_DyeMask.T_HairClump02_DyeMask (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.00:500][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/Hair/TestContent/T_HairClump02_Depth.T_HairClump02_Depth (G8, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.00:500][140]LogMaterial: Display: Missing cached shadermap for M_Yin_Rope in PCD3D_SM5, Default, SM5 (DDC key hash: 3DAE38219C4C9583273058521C0DBB8379900C78), compiling. 
+[2023.03.15-09.14.00:657][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/T_White.T_White (TFO_AutoDXT, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.00:657][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/Hair/SharedHairContent/FemaleHair_Straight_Yin/T_Yin_Hair_Depth.T_Yin_Hair_Depth (G8, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.00:657][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/Hair/SharedHairContent/FemaleHair_Straight_Yin/T_Yin_Hair_Dye_MASK.T_Yin_Hair_Dye_MASK (TFO_DXT1, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.00:657][140]LogMaterial: Display: Missing cached shadermap for M_Yin_Skin in PCD3D_SM5, Default, SM5 (DDC key hash: FA629538F2C4DCA7B17E9EE163EED5F1B96DE191), compiling. 
+[2023.03.15-09.14.00:952][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/Eyelash/T_Yin_Eyelashes_D.T_Yin_Eyelashes_D (TFO_DXT1, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.00:952][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/Hair/SharedHairContent/FemaleHair_Straight_Yin/T_Yin_Hair_Tip_MASK.T_Yin_Hair_Tip_MASK (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.00:952][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/Hair/SharedHairContent/FemaleHair_Straight_Yin/T_Yin_Hair_ID.T_Yin_Hair_ID (G8, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.00:952][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/Eyelash/T_Yin_Eyelashes_N.T_Yin_Eyelashes_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.00:952][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/Eyes/Textures/T_EpicQuadPanorama_CC.T_EpicQuadPanorama_CC (RGBA16F, 7372X3686 X1X1) (Required Memory Estimate: 518.287506 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.00:952][140]LogMaterial: Display: Missing cached shadermap for M_Yin_Skirt in PCD3D_SM5, Default, SM5 (DDC key hash: 205DB63AF9A75F542EBBE6E8886E0D0C5645E2A2), compiling. 
+[2023.03.15-09.14.01:224][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/MaterialLayers/Fabric/T_silkroughness.T_silkroughness (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.01:224][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Heroes/Yin/Textures/T_Embroided_Pattern_1_MASKS.T_Embroided_Pattern_1_MASKS (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.01:224][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/MaterialLayers/Fabric/T_GoldFabric01_N.T_GoldFabric01_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.01:224][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Heroes/Yin/Textures/T_Yin_Cloth_MASK.T_Yin_Cloth_MASK (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.01:224][140]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Yin) ...
+[2023.03.15-09.14.01:883][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Heroes/Yin/Textures/T_Embroided_Pattern_1_N.T_Embroided_Pattern_1_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.01:883][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Heroes/Yin/Textures/T_Yin_Cloth_MASK_2.T_Yin_Cloth_MASK_2 (TFO_DXT1, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.01:883][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/MaterialLayers/Fabric/T_HeavyFabric02_N.T_HeavyFabric02_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.01:883][140]LogSkeletalMesh: Display: [AssetLog] F:\ActionRogueLike\Content\ParagonYin\Characters\Heroes\Yin\Meshes\Yin.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2023.03.15-09.14.01:883][140]LogSkeletalMesh: Building Skeletal Mesh Yin...
+[2023.03.15-09.14.01:883][140]LogSkeletalMesh: Built Skeletal Mesh [0.13s] /Game/ParagonYin/Characters/Heroes/Yin/Meshes/Yin.Yin
+[2023.03.15-09.14.01:883][140]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Heroes/Yin/Textures/T_Yin_Cloth_N.T_Yin_Cloth_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.01:903][140]LogAnimation: Warning: AnimBP ABP_Quinn_C is incompatible with skeleton Yin_Skeleton, removing AnimBP from actor.
+[2023.03.15-09.14.01:904][140]LogAnimation: Warning: AnimBP ABP_Quinn_C is incompatible with skeleton Yin_Skeleton, removing AnimBP from actor.
+[2023.03.15-09.14.01:905][140]LogAnimation: Warning: AnimBP ABP_Quinn_C is incompatible with skeleton Yin_Skeleton, removing AnimBP from actor.
+[2023.03.15-09.14.01:906][140]LogAnimation: Warning: AnimBP ABP_Quinn_C is incompatible with skeleton Yin_Skeleton, removing AnimBP from actor.
+[2023.03.15-09.14.02:175][141]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Heroes/Yin/Textures/T_Yin_Skirt_MASK.T_Yin_Skirt_MASK (TFO_DXT1, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.02:176][141]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/MaterialLayers/Skin/T_Pore_Normals2.T_Pore_Normals2 (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.02:355][147]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Global/MaterialLayers/Skin/T_Pore_Specular.T_Pore_Specular (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.02:708][163]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Heroes/Yin/Textures/T_Yin_Skirt_N.T_Yin_Skirt_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.02:768][165]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Heroes/Yin/Textures/T_Yin_Cloth_RGBAO.T_Yin_Cloth_RGBAO (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.02:789][166]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Heroes/Yin/Textures/T_Yin_Skirt_RGBAO.T_Yin_Skirt_RGBAO (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.03:276][183]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Heroes/Yin/Textures/T_Yin_Skin_N.T_Yin_Skin_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.03:577][198]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Heroes/Yin/Textures/T_Yin_Skin_MAPS.T_Yin_Skin_MAPS (TFO_DXT1, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.03:599][199]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Heroes/Yin/Textures/T_Yin_Skin_RGBAO.T_Yin_Skin_RGBAO (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.04:785][204]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Heroes/Yin/Textures/T_Yin_Skin_COLOR.T_Yin_Skin_COLOR (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.04:785][204]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Heroes/Yin/Materials/Layers/T_Stockings_WaveNet_MASKS.T_Stockings_WaveNet_MASKS (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.04:785][204]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Heroes/Yin/Materials/Layers/T_Stockings_WaveNet_N.T_Stockings_WaveNet_N (TFO_BC5, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.04:785][204]LogTexture: Display: Building textures: /Game/ParagonYin/Characters/Heroes/Yin/Textures/T_Yin_Skirt_MASK_2.T_Yin_Skirt_MASK_2 (TFO_DXT1, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.03.15-09.14.05:527][214]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.14.05:527][214]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.14.05:527][214]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.14.05:527][214]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.14.06:679][260]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.14.06:679][260]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.14.06:679][260]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.14.06:679][260]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.14.06:679][260]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.14.06:679][260]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.14.06:679][260]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.14.06:679][260]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.14.09:172][380]LogShaderCompilers: Display: ================================================
+[2023.03.15-09.14.09:172][380]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.15-09.14.09:172][380]LogShaderCompilers: Display: Total job queries 2006, among them cache hits 0 (0.00%)
+[2023.03.15-09.14.09:172][380]LogShaderCompilers: Display: Tracking 3 distinct input hashes that result in 2 distinct outputs (66.67%)
+[2023.03.15-09.14.09:172][380]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.03.15-09.14.09:172][380]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.15-09.14.09:172][380]LogShaderCompilers: Display: Shaders Compiled: 2006
+[2023.03.15-09.14.09:172][380]LogShaderCompilers: Display: Jobs assigned 83, completed 3 (3.61%)
+[2023.03.15-09.14.09:172][380]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.03.15-09.14.09:172][380]LogShaderCompilers: Display: Time job spent in pending queue: average 1.03 s, longest 11.49 s
+[2023.03.15-09.14.09:172][380]LogShaderCompilers: Display: Job execution time: average 11.53 s, max 11.53 s
+[2023.03.15-09.14.09:172][380]LogShaderCompilers: Display: Job life time (pending + execution): average 11.56 s, max 11.56
+[2023.03.15-09.14.09:172][380]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 11.56 s
+[2023.03.15-09.14.09:172][380]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 9.22 jobs/batch
+[2023.03.15-09.14.09:172][380]LogShaderCompilers: Display: Average processing rate: 0.26 jobs/sec
+[2023.03.15-09.14.09:172][380]LogShaderCompilers: Display: Effective parallelization: 0.71 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.15-09.14.09:172][380]LogShaderCompilers: Display: Top 3 most expensive shader types by average time:
+[2023.03.15-09.14.09:172][380]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 4.40 sec, max 4.40 sec, min 4.40 sec)
+[2023.03.15-09.14.09:172][380]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 2.02 sec, max 2.02 sec, min 2.02 sec)
+[2023.03.15-09.14.09:173][380]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 1.76 sec, max 1.76 sec, min 1.76 sec)
+[2023.03.15-09.14.09:173][380]LogShaderCompilers: Display: Top 3 shader types by total compile time:
+[2023.03.15-09.14.09:173][380]LogShaderCompilers: Display:                                                 FLumenCardVS - 53.78% of total time (compiled    1 times, average 4.40 sec, max 4.40 sec, min 4.40 sec)
+[2023.03.15-09.14.09:173][380]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 24.67% of total time (compiled    1 times, average 2.02 sec, max 2.02 sec, min 2.02 sec)
+[2023.03.15-09.14.09:173][380]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 21.55% of total time (compiled    1 times, average 1.76 sec, max 1.76 sec, min 1.76 sec)
+[2023.03.15-09.14.09:173][380]LogShaderCompilers: Display: ================================================
+[2023.03.15-09.14.11:441][497]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.14.11:442][497]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.14.11:601][504]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.14.11:601][504]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.14.12:273][542]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.14.12:273][542]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.14.16:115][724]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.14.16:115][724]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.14.29:798][478]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.14.37:212][826]LogViewport: Scene viewport resized to 1055x686, mode Windowed.
+[2023.03.15-09.15.34:105][210]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.15.34:105][210]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.15.34:257][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActionRogueLike/Characters/PlayerCharacter" FILE="F:/ActionRogueLike/Content/ActionRogueLike/Characters/PlayerCharacter.uasset" SILENT=true
+[2023.03.15-09.15.34:273][210]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.013854 seconds
+[2023.03.15-09.15.34:292][210]LogSavePackage: Moving output files for package: /Game/ActionRogueLike/Characters/PlayerCharacter
+[2023.03.15-09.15.34:294][210]LogSavePackage: Moving 'F:/ActionRogueLike/Saved/PlayerCharacter5271E0CA47B1BE7B9C0B6F83DB9C75E8.tmp' to 'F:/ActionRogueLike/Content/ActionRogueLike/Characters/PlayerCharacter.uasset'
+[2023.03.15-09.15.34:322][210]AssetCheck: New page: Asset Save: PlayerCharacter
+[2023.03.15-09.15.34:323][210]LogContentValidation: Display: Validating Blueprint /Game/ActionRogueLike/Characters/PlayerCharacter.PlayerCharacter
+[2023.03.15-09.15.34:448][216]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.15.34:448][216]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.15.35:910][289]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-09.15.35:910][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-09.15.46:179][771]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.15-09.15.46:239][771]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.15-09.15.46:239][771]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.15-09.15.46:239][771]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.03.15-09.15.46:239][771]LogWorldPartition: Display: ValidateSingleActorReferer took 10 us
+[2023.03.15-09.15.46:239][771]LogWorldPartition: Display: GetPartitionedActors took 102 us
+[2023.03.15-09.15.46:455][771]LogWorldPartition: Display: GenerateStreaming took 215 ms
+[2023.03.15-09.15.46:455][771]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.15-09.15.46:456][771]PIE: New page: PIE session: Level01 (2023年3月16日 上午1:15:46)
+[2023.03.15-09.15.46:457][771]LogPlayLevel: Creating play world package: /Game/ActionRogueLike/Maps/UEDPIE_0_Level01
+[2023.03.15-09.15.46:532][771]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.03.15-09.15.46:532][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076431s)
+[2023.03.15-09.15.46:533][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ActionRogueLike/Maps/Level01.Level01 to /Game/ActionRogueLike/Maps/UEDPIE_0_Level01.Level01 (0.076654s)
+[2023.03.15-09.15.46:533][771]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.15-09.15.46:534][771]LogAIModule: Creating AISystem for world Level01
+[2023.03.15-09.15.46:536][771]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.15-09.15.46:536][771]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.03.15-09.15.46:544][771]LogWorldPartition: Display: WorldPartition initialize took 8 ms
+[2023.03.15-09.15.46:544][771]LogPlayLevel: PIE: World Init took: (0.011112s)
+[2023.03.15-09.15.46:603][771]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.03.15-09.15.46:616][771]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.03.15-09.15.46:616][771]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.15-09.15.46:616][771]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.15-09.15.46:616][771]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.15-09.15.46:616][771]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.15-09.15.46:616][771]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.15-09.15.46:616][771]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.15-09.15.46:616][771]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.15-09.15.46:616][771]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.15-09.15.46:618][771]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.15-09.15.46:618][771]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.15-09.15.46:618][771]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.15-09.15.46:624][771]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.15-09.15.46:769][771]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek(R) Audio)
+[2023.03.15-09.15.46:769][771]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.15-09.15.46:769][771]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.15-09.15.46:769][771]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.15-09.15.46:769][771]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.03.15-09.15.46:769][771]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.03.15-09.15.46:774][771]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.03.15-09.15.46:774][771]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.03.15-09.15.46:774][771]LogInit: FAudioDevice initialized.
+[2023.03.15-09.15.46:774][771]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level01'.
+[2023.03.15-09.15.46:797][771]LogLoad: Game class is 'GameModeBase'
+[2023.03.15-09.15.46:801][771]LogWorld: Bringing World /Game/ActionRogueLike/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2023.03.15-17.15.46
+[2023.03.15-09.15.46:801][771]LogWorld: Bringing up level for play took: 0.003954
+[2023.03.15-09.15.46:806][771]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2023.03.15-09.15.46:808][771]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1009.740 Y=181.114 Z=146.761
+[2023.03.15-09.15.46:808][771]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(21), CellsToLoad(0), CellsToUnload(0)
+[2023.03.15-09.15.46:808][771]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=1009.740 Y=181.114 Z=146.761,P=0.000000 Y=0.979626 R=-0.000000
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/E/57/L9T6GGHWSDIQ9AVSRWM1KZ.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/E/57/L9T6GGHWSDIQ9AVSRWM1KZ.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/E/57/L9T6GGHWSDIQ9AVSRWM1KZ.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/E/57/L9T6GGHWSDIQ9AVSRWM1KZ.StaticMesh_HLOD0_Instancing_13 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/E/57/L9T6GGHWSDIQ9AVSRWM1KZ.StaticMesh_HLOD0_Instancing_12 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/E/57/L9T6GGHWSDIQ9AVSRWM1KZ.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/E/57/L9T6GGHWSDIQ9AVSRWM1KZ.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/C/Q5/TFHT711JAFYTMBSTYT5MGW.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/C/Q5/TFHT711JAFYTMBSTYT5MGW.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/B/XH/J3DI6NRY35H32HJMU1BP2B.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/B/XH/J3DI6NRY35H32HJMU1BP2B.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/B/MS/DL5E2744VWPSGFH4F76X15.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/B/EE/RMRDW06YBJJ48LBSOZGJ4W.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/A/LR/ETWDE5LVWH13BNGSKSAMLL.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/A/LR/ETWDE5LVWH13BNGSKSAMLL.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/7/Y2/8EWUB39CT5R0EOZGFC7YY9.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/7/W1/NS5SDCSQSV2KS2L33YNH5I.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/7/W1/NS5SDCSQSV2KS2L33YNH5I.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/7/W1/NS5SDCSQSV2KS2L33YNH5I.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/7/W1/NS5SDCSQSV2KS2L33YNH5I.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/7/W1/NS5SDCSQSV2KS2L33YNH5I.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/7/CR/DBYXVP3PJSZVUAXC6TFBXF.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/7/CR/DBYXVP3PJSZVUAXC6TFBXF.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/6/QA/KXJ7BEEIIRY6NQIO3QRHVZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/5/QJ/3XUB1PJT76QERIEQZ33PBG.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/5/QJ/3XUB1PJT76QERIEQZ33PBG.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/5/BG/96W4NH4OEM4X4KCSO163T2.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/5/6T/ZZKTNRAXX9A510FXD3GC9A.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/4/9T/1DRY6KNNXTZ22GKJQ6339N.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/3/SO/RUAZEO5703LFSEC57L5JOZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/3/52/8Q6SJA91A92G3TKI3K63C4.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/3/52/8Q6SJA91A92G3TKI3K63C4.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/3/52/8Q6SJA91A92G3TKI3K63C4.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/3/52/8Q6SJA91A92G3TKI3K63C4.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/3/52/8Q6SJA91A92G3TKI3K63C4.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/3/52/8Q6SJA91A92G3TKI3K63C4.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/1/M3/6VU2SU2N6L3GM05IYS0W3H.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/1/E9/1U2BDM2LBD55GK5T8CP0U0.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/1/E9/1U2BDM2LBD55GK5T8CP0U0.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/1/E9/1U2BDM2LBD55GK5T8CP0U0.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/1/8F/7DCMFIKK2IMRYE5568XD0N.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/1/8F/7DCMFIKK2IMRYE5568XD0N.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/1/6U/BG88YE014GI2JXQPXZ84ZY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/0/AK/IF9HG3DLF5CJH5UAY2K3BK.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/0/AK/IF9HG3DLF5CJH5UAY2K3BK.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/0/AK/IF9HG3DLF5CJH5UAY2K3BK.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.03.15-09.15.46:887][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/0/AK/IF9HG3DLF5CJH5UAY2K3BK.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2023.03.15-09.15.46:888][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/0/AK/IF9HG3DLF5CJH5UAY2K3BK.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2023.03.15-09.15.46:888][771]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/0/AK/IF9HG3DLF5CJH5UAY2K3BK.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2023.03.15-09.15.46:946][771]LogChaosCloth: Warning: Actor 'PlayerCharacter_C_UAID_84A938E258E52A5C01_1505825703' component 'CharacterMesh0' has 7 sphere, 6 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.03.15-09.15.46:947][771]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.15.46:947][771]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.15.46:947][771]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.15.46:947][771]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.15.46:947][771]LogChaosCloth: Warning: Actor 'PlayerCharacter_C_UAID_84A938E258E52A5C01_1505825703' component 'CharacterMesh0' has 7 sphere, 6 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.03.15-09.15.46:947][771]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.15.46:947][771]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.15.46:947][771]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.15.46:947][771]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.15.46:949][771]LogChaosCloth: Warning: Actor 'PlayerCharacter_C_UAID_84A938E258E52A5C01_1505825703' component 'CharacterMesh0' has 7 sphere, 6 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.03.15-09.15.46:949][771]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.15.46:949][771]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.15.46:949][771]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.15.46:949][771]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.15.46:949][771]LogChaosCloth: Warning: Actor 'PlayerCharacter_C_UAID_84A938E258E52A5C01_1505825703' component 'CharacterMesh0' has 7 sphere, 6 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.03.15-09.15.46:949][771]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.15.46:949][771]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.15.46:949][771]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.15.46:949][771]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.15.46:950][771]LogChaosCloth: Warning: Actor 'PlayerCharacter_C_UAID_84A938E258E52A5C01_1505825703' component 'CharacterMesh0' has 10 sphere, 9 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.03.15-09.15.46:950][771]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.15.46:950][771]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.15.46:950][771]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.15.46:950][771]LogChaosCloth: Warning: Actor 'PlayerCharacter_C_UAID_84A938E258E52A5C01_1505825703' component 'CharacterMesh0' has 10 sphere, 9 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.03.15-09.15.46:950][771]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.15.46:950][771]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.15.46:950][771]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.15.46:953][771]LogStreaming: Display: FlushAsyncLoading: 48 QueuedPackages, 0 AsyncPackages
+[2023.03.15-09.15.47:408][771]PIE: Server logged in
+[2023.03.15-09.15.47:411][771]PIE: Play in editor total start time 1.219 seconds.
+[2023.03.15-09.16.39:282][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.15-09.16.39:282][354]LogWorld: BeginTearingDown for /Game/ActionRogueLike/Maps/UEDPIE_0_Level01
+[2023.03.15-09.16.39:314][354]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-09.16.39:318][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-09.16.39:341][354]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.15-09.16.39:351][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-09.16.39:386][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.15-09.16.39:390][354]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.03.15-09.16.39:393][354]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.03.15-09.16.39:446][354]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.03.15-09.16.39:534][355]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.03.15-09.17.02:896][512]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ActionRogueLike/Characters/PlayerCharacter.PlayerCharacter
+[2023.03.15-09.17.02:896][512]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.15-09.17.03:693][512]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.17.03:693][512]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.17.03:693][512]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.17.03:693][512]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.17.04:530][534]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.17.04:530][534]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.17.04:530][534]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.17.04:530][534]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.17.06:134][605]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.17.06:193][606]LogViewport: Scene viewport resized to 1055x686, mode Windowed.
+[2023.03.15-09.17.07:098][635]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.17.08:416][697]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.17.10:027][780]LogShaderCompilers: Display: ================================================
+[2023.03.15-09.17.10:027][780]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.15-09.17.10:027][780]LogShaderCompilers: Display: Total job queries 2101, among them cache hits 95 (4.52%)
+[2023.03.15-09.17.10:027][780]LogShaderCompilers: Display: Tracking 890 distinct input hashes that result in 554 distinct outputs (62.25%)
+[2023.03.15-09.17.10:027][780]LogShaderCompilers: Display: RAM used: 2.24 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.14%
+[2023.03.15-09.17.10:027][780]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.15-09.17.10:027][780]LogShaderCompilers: Display: Shaders Compiled: 2017
+[2023.03.15-09.17.10:027][780]LogShaderCompilers: Display: Jobs assigned 970, completed 890 (91.75%)
+[2023.03.15-09.17.10:027][780]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.03.15-09.17.10:027][780]LogShaderCompilers: Display: Time job spent in pending queue: average 91.84 s, longest 192.14 s
+[2023.03.15-09.17.10:027][780]LogShaderCompilers: Display: Job execution time: average 15.04 s, max 28.32 s
+[2023.03.15-09.17.10:027][780]LogShaderCompilers: Display: Job life time (pending + execution): average 98.71 s, max 192.14
+[2023.03.15-09.17.10:027][780]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 192.41 s
+[2023.03.15-09.17.10:027][780]LogShaderCompilers: Display: Jobs were issued in 185 batches (only local compilation was used), average 5.24 jobs/batch
+[2023.03.15-09.17.10:027][780]LogShaderCompilers: Display: Average processing rate: 4.63 jobs/sec
+[2023.03.15-09.17.10:027][780]LogShaderCompilers: Display: Effective parallelization: 6.53 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.15-09.17.10:027][780]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.15-09.17.10:027][780]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    1 times, average 8.06 sec, max 8.06 sec, min 8.06 sec)
+[2023.03.15-09.17.10:027][780]LogShaderCompilers: Display:    TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    2 times, average 7.87 sec, max 8.23 sec, min 7.51 sec)
+[2023.03.15-09.17.10:027][780]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    2 times, average 7.74 sec, max 8.20 sec, min 7.27 sec)
+[2023.03.15-09.17.10:027][780]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   25 times, average 4.01 sec, max 9.94 sec, min 1.17 sec)
+[2023.03.15-09.17.10:027][780]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   25 times, average 2.18 sec, max 7.77 sec, min 1.47 sec)
+[2023.03.15-09.17.10:027][780]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.15-09.17.10:027][780]LogShaderCompilers: Display:                                             FDebugViewModePS - 7.97% of total time (compiled   25 times, average 4.01 sec, max 9.94 sec, min 1.17 sec)
+[2023.03.15-09.17.10:027][780]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 4.88% of total time (compiled   31 times, average 1.98 sec, max 7.68 sec, min 0.87 sec)
+[2023.03.15-09.17.10:027][780]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 4.78% of total time (compiled   35 times, average 1.72 sec, max 6.90 sec, min 0.86 sec)
+[2023.03.15-09.17.10:027][780]LogShaderCompilers: Display:                                                  FHitProxyVS - 4.72% of total time (compiled   35 times, average 1.69 sec, max 4.10 sec, min 1.03 sec)
+[2023.03.15-09.17.10:027][780]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.46% of total time (compiled   34 times, average 1.65 sec, max 2.91 sec, min 1.19 sec)
+[2023.03.15-09.17.10:027][780]LogShaderCompilers: Display: ================================================
+[2023.03.15-09.17.10:152][780]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.17.10:182][781]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2023.03.15-09.17.10:259][781]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.15-09.17.15:035][986]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.17.15:339][992]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.17.16:667][ 28]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.17.19:551][155]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.17.19:828][156]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.17.21:547][221]LogBlueprint: Warning: [AssetLog] F:\ActionRogueLike\Content\ParagonYin\Characters\Heroes\Yin\YinPlayerCharacter.uasset: [Compiler] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2023.03.15-09.17.21:548][221]LogBlueprint: Warning: [AssetLog] F:\ActionRogueLike\Content\ParagonYin\Characters\Heroes\Yin\YinPlayerCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2023.03.15-09.17.21:548][221]LogBlueprint: Warning: [AssetLog] F:\ActionRogueLike\Content\ParagonYin\Characters\Heroes\Yin\YinPlayerCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2023.03.15-09.17.21:548][221]LogBlueprint: Warning: [AssetLog] F:\ActionRogueLike\Content\ParagonYin\Characters\Heroes\Yin\YinPlayerCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2023.03.15-09.17.21:548][221]LogBlueprint: Warning: [AssetLog] F:\ActionRogueLike\Content\ParagonYin\Characters\Heroes\Yin\YinPlayerCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2023.03.15-09.17.21:830][221]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonYin/Characters/Heroes/Yin/Animations/AimOffsets/AO_Idle_CC.AO_Idle_CC
+[2023.03.15-09.17.21:851][221]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.15-09.17.21:858][221]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.15-09.17.21:861][221]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.15-09.17.21:862][221]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.15-09.17.21:868][221]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.15-09.17.21:872][221]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.15-09.17.21:877][221]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.15-09.17.21:881][221]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.15-09.17.22:581][221]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonYin/Characters/Heroes/Yin/Animations/Primary_Attack_D_Medium.Primary_Attack_D_Medium
+[2023.03.15-09.17.22:581][221]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonYin/Characters/Heroes/Yin/Animations/Primary_Attack_C_Medium.Primary_Attack_C_Medium
+[2023.03.15-09.17.22:581][221]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.15-09.17.22:777][221]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.17.23:075][222]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.17.23:329][223]LogShaderCompilers: Display: FShaderCompileThreadRunnable::WriteNewTasks()() took too long (0.760 seconds, threshold is 0.300 s), will parallelize next time.
+[2023.03.15-09.17.23:329][223]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.17.23:606][233]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.17.23:606][233]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.17.23:677][235]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonYin/Characters/Heroes/Yin/Animations/Primary_Attack_B_Slow.Primary_Attack_B_Slow
+[2023.03.15-09.17.23:677][235]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonYin/Characters/Heroes/Yin/Animations/Primary_Attack_A_Slow.Primary_Attack_A_Slow
+[2023.03.15-09.17.24:067][254]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonYin/Characters/Heroes/Yin/Animations/Jog_Fwd_UpHill.Jog_Fwd_UpHill
+[2023.03.15-09.17.24:068][254]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonYin/Characters/Heroes/Yin/Animations/Jog_Fwd_DownHill.Jog_Fwd_DownHill
+[2023.03.15-09.17.24:215][262]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonYin/Characters/Heroes/Yin/Animations/Jog_Fwd_Circle_Right.Jog_Fwd_Circle_Right
+[2023.03.15-09.17.24:338][268]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonYin/Characters/Heroes/Yin/Animations/Jog_Fwd_Circle_Left.Jog_Fwd_Circle_Left
+[2023.03.15-09.17.24:487][276]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonYin/Characters/Heroes/Yin/Animations/Jog_Fwd.Jog_Fwd
+[2023.03.15-09.17.24:571][281]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonYin/Characters/Heroes/Yin/Animations/Jump_Start.Jump_Start
+[2023.03.15-09.17.24:626][284]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonYin/Characters/Heroes/Yin/Animations/Jump_Recovery_Additive.Jump_Recovery_Additive
+[2023.03.15-09.17.24:706][289]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonYin/Characters/Heroes/Yin/Animations/Jump_Land.Jump_Land
+[2023.03.15-09.17.24:766][292]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonYin/Characters/Heroes/Yin/Animations/Jump_Apex.Jump_Apex
+[2023.03.15-09.17.24:782][293]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonYin/Characters/Heroes/Yin/Animations/Jog_Fwd_Stop.Jog_Fwd_Stop
+[2023.03.15-09.17.24:832][295]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonYin/Characters/Heroes/Yin/Animations/Jog_Fwd_Start.Jog_Fwd_Start
+[2023.03.15-09.17.25:163][301]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonYin/Characters/Heroes/Yin/Animations/Level_Start.Level_Start
+[2023.03.15-09.17.25:317][303]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonYin/Characters/Heroes/Yin/Animations/Idle_Combat.Idle_Combat
+[2023.03.15-09.17.26:380][324]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.15-09.17.26:383][324]LogEditorClassViewer: Warning: Class /Game/ParagonYin/Characters/Heroes/Yin/Yin_AnimBlueprint.PLACEHOLDER-CLASS__YinPlayerCharacter_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.15-09.17.29:505][369]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonYin/Characters/Heroes/Yin/Animations/AimOffsets/AO_Idle_RU.AO_Idle_RU
+[2023.03.15-09.17.29:527][370]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonYin/Characters/Heroes/Yin/Animations/AimOffsets/AO_Idle_RD.AO_Idle_RD
+[2023.03.15-09.17.29:590][372]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonYin/Characters/Heroes/Yin/Animations/AimOffsets/AO_Idle_RC.AO_Idle_RC
+[2023.03.15-09.17.29:650][374]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonYin/Characters/Heroes/Yin/Animations/AimOffsets/AO_Idle_LU.AO_Idle_LU
+[2023.03.15-09.17.29:702][376]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonYin/Characters/Heroes/Yin/Animations/AimOffsets/AO_Idle_LD.AO_Idle_LD
+[2023.03.15-09.17.29:767][378]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonYin/Characters/Heroes/Yin/Animations/AimOffsets/AO_Idle_LC.AO_Idle_LC
+[2023.03.15-09.17.29:840][379]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonYin/Characters/Heroes/Yin/Animations/AimOffsets/AO_Idle_CU.AO_Idle_CU
+[2023.03.15-09.17.29:953][381]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonYin/Characters/Heroes/Yin/Animations/AimOffsets/AO_Idle_CD.AO_Idle_CD
+[2023.03.15-09.17.31:184][398]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.17.31:516][399]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.17.35:795][530]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.17.40:264][757]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.17.40:264][757]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.17.40:383][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActionRogueLike/Characters/PlayerCharacter" FILE="F:/ActionRogueLike/Content/ActionRogueLike/Characters/PlayerCharacter.uasset" SILENT=true
+[2023.03.15-09.17.40:391][757]LogSavePackage: Moving output files for package: /Game/ActionRogueLike/Characters/PlayerCharacter
+[2023.03.15-09.17.40:394][757]LogSavePackage: Moving 'F:/ActionRogueLike/Saved/PlayerCharacter38CB867F494A0E3066033293F3D72323.tmp' to 'F:/ActionRogueLike/Content/ActionRogueLike/Characters/PlayerCharacter.uasset'
+[2023.03.15-09.17.40:425][757]AssetCheck: New page: Asset Save: PlayerCharacter
+[2023.03.15-09.17.40:425][757]LogContentValidation: Display: Validating Blueprint /Game/ActionRogueLike/Characters/PlayerCharacter.PlayerCharacter
+[2023.03.15-09.17.40:566][762]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.17.40:566][762]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.17.40:871][770]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.17.41:227][785]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-09.17.41:227][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-09.17.51:523][238]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.15-09.17.51:541][238]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.15-09.17.51:542][238]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.15-09.17.51:542][238]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.03.15-09.17.51:542][238]LogWorldPartition: Display: ValidateSingleActorReferer took 10 us
+[2023.03.15-09.17.51:542][238]LogWorldPartition: Display: GetPartitionedActors took 98 us
+[2023.03.15-09.17.51:709][238]LogWorldPartition: Display: GenerateStreaming took 168 ms
+[2023.03.15-09.17.51:710][238]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.15-09.17.51:710][238]PIE: New page: PIE session: Level01 (2023年3月16日 上午1:17:51)
+[2023.03.15-09.17.51:711][238]LogPlayLevel: Creating play world package: /Game/ActionRogueLike/Maps/UEDPIE_0_Level01
+[2023.03.15-09.17.51:776][238]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.03.15-09.17.51:777][238]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065427s)
+[2023.03.15-09.17.51:777][238]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ActionRogueLike/Maps/Level01.Level01 to /Game/ActionRogueLike/Maps/UEDPIE_0_Level01.Level01 (0.065634s)
+[2023.03.15-09.17.51:777][238]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.15-09.17.51:778][238]LogAIModule: Creating AISystem for world Level01
+[2023.03.15-09.17.51:780][238]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.15-09.17.51:780][238]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.03.15-09.17.51:787][238]LogWorldPartition: Display: WorldPartition initialize took 7 ms
+[2023.03.15-09.17.51:787][238]LogPlayLevel: PIE: World Init took: (0.010471s)
+[2023.03.15-09.17.51:997][238]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2023.03.15-09.17.52:003][238]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.03.15-09.17.52:003][238]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.15-09.17.52:003][238]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.15-09.17.52:004][238]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.15-09.17.52:004][238]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.15-09.17.52:004][238]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.15-09.17.52:004][238]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.15-09.17.52:004][238]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.15-09.17.52:004][238]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.15-09.17.52:005][238]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.15-09.17.52:005][238]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.15-09.17.52:005][238]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.15-09.17.52:009][238]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.15-09.17.52:145][238]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek(R) Audio)
+[2023.03.15-09.17.52:146][238]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.15-09.17.52:146][238]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.15-09.17.52:146][238]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.15-09.17.52:147][238]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.03.15-09.17.52:147][238]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.03.15-09.17.52:151][238]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.03.15-09.17.52:151][238]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.03.15-09.17.52:151][238]LogInit: FAudioDevice initialized.
+[2023.03.15-09.17.52:151][238]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level01'.
+[2023.03.15-09.17.52:177][238]LogLoad: Game class is 'GameModeBase'
+[2023.03.15-09.17.52:182][238]LogWorld: Bringing World /Game/ActionRogueLike/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2023.03.15-17.17.52
+[2023.03.15-09.17.52:183][238]LogWorld: Bringing up level for play took: 0.004955
+[2023.03.15-09.17.52:186][238]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2023.03.15-09.17.52:188][238]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=686.483 Y=186.108 Z=151.904
+[2023.03.15-09.17.52:188][238]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(21), CellsToLoad(0), CellsToUnload(0)
+[2023.03.15-09.17.52:188][238]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=686.483 Y=186.108 Z=151.904,P=0.000000 Y=9.504334 R=-0.000000
+[2023.03.15-09.17.52:276][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/E/57/L9T6GGHWSDIQ9AVSRWM1KZ.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.03.15-09.17.52:276][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/E/57/L9T6GGHWSDIQ9AVSRWM1KZ.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.03.15-09.17.52:276][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/E/57/L9T6GGHWSDIQ9AVSRWM1KZ.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.03.15-09.17.52:276][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/E/57/L9T6GGHWSDIQ9AVSRWM1KZ.StaticMesh_HLOD0_Instancing_13 being ready before playing
+[2023.03.15-09.17.52:276][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/E/57/L9T6GGHWSDIQ9AVSRWM1KZ.StaticMesh_HLOD0_Instancing_12 being ready before playing
+[2023.03.15-09.17.52:276][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/E/57/L9T6GGHWSDIQ9AVSRWM1KZ.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2023.03.15-09.17.52:276][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/E/57/L9T6GGHWSDIQ9AVSRWM1KZ.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2023.03.15-09.17.52:276][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/C/Q5/TFHT711JAFYTMBSTYT5MGW.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/C/Q5/TFHT711JAFYTMBSTYT5MGW.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/B/XH/J3DI6NRY35H32HJMU1BP2B.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/B/XH/J3DI6NRY35H32HJMU1BP2B.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/B/MS/DL5E2744VWPSGFH4F76X15.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/B/EE/RMRDW06YBJJ48LBSOZGJ4W.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/A/LR/ETWDE5LVWH13BNGSKSAMLL.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/A/LR/ETWDE5LVWH13BNGSKSAMLL.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/7/Y2/8EWUB39CT5R0EOZGFC7YY9.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/7/W1/NS5SDCSQSV2KS2L33YNH5I.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/7/W1/NS5SDCSQSV2KS2L33YNH5I.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/7/W1/NS5SDCSQSV2KS2L33YNH5I.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/7/W1/NS5SDCSQSV2KS2L33YNH5I.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/7/W1/NS5SDCSQSV2KS2L33YNH5I.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/7/CR/DBYXVP3PJSZVUAXC6TFBXF.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/7/CR/DBYXVP3PJSZVUAXC6TFBXF.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/6/QA/KXJ7BEEIIRY6NQIO3QRHVZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/5/QJ/3XUB1PJT76QERIEQZ33PBG.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/5/QJ/3XUB1PJT76QERIEQZ33PBG.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/5/BG/96W4NH4OEM4X4KCSO163T2.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/5/6T/ZZKTNRAXX9A510FXD3GC9A.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/4/9T/1DRY6KNNXTZ22GKJQ6339N.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/3/SO/RUAZEO5703LFSEC57L5JOZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/3/52/8Q6SJA91A92G3TKI3K63C4.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/3/52/8Q6SJA91A92G3TKI3K63C4.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/3/52/8Q6SJA91A92G3TKI3K63C4.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/3/52/8Q6SJA91A92G3TKI3K63C4.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/3/52/8Q6SJA91A92G3TKI3K63C4.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/3/52/8Q6SJA91A92G3TKI3K63C4.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/1/M3/6VU2SU2N6L3GM05IYS0W3H.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/1/E9/1U2BDM2LBD55GK5T8CP0U0.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/1/E9/1U2BDM2LBD55GK5T8CP0U0.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/1/E9/1U2BDM2LBD55GK5T8CP0U0.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/1/8F/7DCMFIKK2IMRYE5568XD0N.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/1/8F/7DCMFIKK2IMRYE5568XD0N.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/1/6U/BG88YE014GI2JXQPXZ84ZY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/0/AK/IF9HG3DLF5CJH5UAY2K3BK.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/0/AK/IF9HG3DLF5CJH5UAY2K3BK.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/0/AK/IF9HG3DLF5CJH5UAY2K3BK.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/0/AK/IF9HG3DLF5CJH5UAY2K3BK.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/0/AK/IF9HG3DLF5CJH5UAY2K3BK.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2023.03.15-09.17.52:277][238]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/ActionRogueLike/Maps/Level01/0/AK/IF9HG3DLF5CJH5UAY2K3BK.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2023.03.15-09.17.52:321][238]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.15-09.17.52:323][238]LogChaosCloth: Warning: Actor 'PlayerCharacter_C_UAID_84A938E258E52A5C01_1505825703' component 'CharacterMesh0' has 7 sphere, 6 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.03.15-09.17.52:323][238]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.17.52:323][238]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.17.52:323][238]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.17.52:323][238]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.17.52:323][238]LogChaosCloth: Warning: Actor 'PlayerCharacter_C_UAID_84A938E258E52A5C01_1505825703' component 'CharacterMesh0' has 7 sphere, 6 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.03.15-09.17.52:323][238]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.17.52:323][238]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.17.52:323][238]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.17.52:323][238]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.17.52:324][238]LogChaosCloth: Warning: Actor 'PlayerCharacter_C_UAID_84A938E258E52A5C01_1505825703' component 'CharacterMesh0' has 7 sphere, 6 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.03.15-09.17.52:324][238]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.17.52:324][238]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.17.52:324][238]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.17.52:324][238]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.17.52:324][238]LogChaosCloth: Warning: Actor 'PlayerCharacter_C_UAID_84A938E258E52A5C01_1505825703' component 'CharacterMesh0' has 7 sphere, 6 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.03.15-09.17.52:324][238]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.17.52:324][238]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.17.52:325][238]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.17.52:325][238]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.17.52:326][238]LogChaosCloth: Warning: Actor 'PlayerCharacter_C_UAID_84A938E258E52A5C01_1505825703' component 'CharacterMesh0' has 10 sphere, 9 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.03.15-09.17.52:326][238]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.17.52:326][238]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.17.52:326][238]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.17.52:326][238]LogChaosCloth: Warning: Actor 'PlayerCharacter_C_UAID_84A938E258E52A5C01_1505825703' component 'CharacterMesh0' has 10 sphere, 9 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.03.15-09.17.52:326][238]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.17.52:326][238]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.17.52:326][238]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.15-09.17.52:329][238]LogStreaming: Display: FlushAsyncLoading: 48 QueuedPackages, 0 AsyncPackages
+[2023.03.15-09.17.52:732][238]PIE: Server logged in
+[2023.03.15-09.17.52:735][238]PIE: Play in editor total start time 1.197 seconds.
+[2023.03.15-09.17.54:705][323]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonYin/Characters/Heroes/Yin/Animations/LevelStart_Montage.LevelStart_Montage'
+[2023.03.15-09.18.03:005][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.15-09.18.03:005][728]LogWorld: BeginTearingDown for /Game/ActionRogueLike/Maps/UEDPIE_0_Level01
+[2023.03.15-09.18.03:041][728]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-09.18.03:044][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-09.18.03:077][728]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.15-09.18.03:094][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-09.18.03:133][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.15-09.18.03:144][728]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.03.15-09.18.03:149][728]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.03.15-09.18.03:305][728]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2023.03.15-09.18.03:417][729]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.03.15-09.18.35:162][284]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ActionRogueLike/Characters/PlayerCharacter.PlayerCharacter
+[2023.03.15-09.18.35:163][284]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.15-09.18.36:014][284]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.15-09.18.36:021][284]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.18.36:021][284]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.18.36:021][284]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.18.36:021][284]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.18.36:595][306]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.18.36:595][306]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.18.36:595][306]SourceControl: Error: hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+[2023.03.15-09.18.36:595][306]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2023.03.15-09.18.38:325][390]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.15-09.18.38:328][390]LogViewport: Scene viewport resized to 1055x686, mode Windowed.
+[2023.03.15-09.19.29:919][759]BlueprintLog: New page: Compile PlayerCharacter
+[2023.03.15-09.19.29:962][759]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.15-09.19.30:016][759]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.15-09.19.30:020][759]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.15-09.19.30:025][759]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.15-09.19.30:029][759]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.15-09.19.30:036][759]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.15-09.19.30:040][759]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.15-09.19.30:046][759]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.15-09.19.30:115][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.03.15-09.19.30:130][759]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.15-09.19.30:132][759]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.15-09.19.30:134][759]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.15-09.19.30:136][759]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.15-09.19.30:140][759]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.15-09.19.30:150][759]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.15-09.19.30:154][759]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.15-09.19.30:156][759]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.15-09.19.30:159][759]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.15-09.19.30:199][759]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.15-09.19.36:126][ 80]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.19.37:029][109]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.19.40:695][293]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.19.46:533][530]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.19.49:483][649]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.19.49:670][650]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.19.49:865][651]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.19.52:370][749]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.19.52:528][750]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.19.53:986][802]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.20.03:935][173]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.20.04:515][188]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.20.04:877][193]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.20.05:118][194]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.20.06:616][241]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.20.06:885][242]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.20.07:110][243]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.20.13:450][460]LogShaderCompilers: Display: ================================================
+[2023.03.15-09.20.13:450][460]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.15-09.20.13:450][460]LogShaderCompilers: Display: Total job queries 2101, among them cache hits 95 (4.52%)
+[2023.03.15-09.20.13:450][460]LogShaderCompilers: Display: Tracking 1570 distinct input hashes that result in 844 distinct outputs (53.76%)
+[2023.03.15-09.20.13:450][460]LogShaderCompilers: Display: RAM used: 3.48 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.21%
+[2023.03.15-09.20.13:450][460]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.15-09.20.13:450][460]LogShaderCompilers: Display: Shaders Compiled: 2017
+[2023.03.15-09.20.13:450][460]LogShaderCompilers: Display: Jobs assigned 1650, completed 1570 (95.15%)
+[2023.03.15-09.20.13:450][460]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.03.15-09.20.13:450][460]LogShaderCompilers: Display: Time job spent in pending queue: average 170.44 s, longest 375.38 s
+[2023.03.15-09.20.13:450][460]LogShaderCompilers: Display: Job execution time: average 17.80 s, max 41.44 s
+[2023.03.15-09.20.13:450][460]LogShaderCompilers: Display: Job life time (pending + execution): average 178.30 s, max 375.56
+[2023.03.15-09.20.13:450][460]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 375.83 s
+[2023.03.15-09.20.13:451][460]LogShaderCompilers: Display: Jobs were issued in 253 batches (only local compilation was used), average 6.52 jobs/batch
+[2023.03.15-09.20.13:451][460]LogShaderCompilers: Display: Average processing rate: 4.18 jobs/sec
+[2023.03.15-09.20.13:451][460]LogShaderCompilers: Display: Effective parallelization: 6.88 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.15-09.20.13:451][460]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.15-09.20.13:451][460]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    8 times, average 6.31 sec, max 14.17 sec, min 1.37 sec)
+[2023.03.15-09.20.13:451][460]LogShaderCompilers: Display:    TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    8 times, average 5.46 sec, max 8.23 sec, min 1.56 sec)
+[2023.03.15-09.20.13:451][460]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    8 times, average 5.36 sec, max 7.81 sec, min 1.49 sec)
+[2023.03.15-09.20.13:451][460]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    8 times, average 5.35 sec, max 8.20 sec, min 1.35 sec)
+[2023.03.15-09.20.13:451][460]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    8 times, average 5.35 sec, max 8.52 sec, min 1.34 sec)
+[2023.03.15-09.20.13:451][460]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.15-09.20.13:451][460]LogShaderCompilers: Display:                                             FDebugViewModePS - 7.13% of total time (compiled   45 times, average 4.10 sec, max 11.12 sec, min 1.06 sec)
+[2023.03.15-09.20.13:451][460]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.41% of total time (compiled   44 times, average 2.59 sec, max 8.92 sec, min 1.19 sec)
+[2023.03.15-09.20.13:451][460]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 4.22% of total time (compiled   42 times, average 2.59 sec, max 8.68 sec, min 1.28 sec)
+[2023.03.15-09.20.13:451][460]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 4.06% of total time (compiled   50 times, average 2.10 sec, max 7.86 sec, min 0.86 sec)
+[2023.03.15-09.20.13:451][460]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 4.05% of total time (compiled   46 times, average 2.28 sec, max 7.81 sec, min 1.29 sec)
+[2023.03.15-09.20.13:451][460]LogShaderCompilers: Display: ================================================
+[2023.03.15-09.20.13:598][460]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.20.17:568][596]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.20.19:027][649]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.20.24:277][828]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.20.25:430][865]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.20.27:731][953]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.20.29:430][  7]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.20.30:816][ 60]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.20.31:944][ 96]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.20.36:152][248]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.20.38:547][339]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.20.39:453][369]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.20.41:588][457]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.20.43:927][548]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.20.46:049][634]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.20.46:674][654]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.20.49:111][742]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.20.50:942][811]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.20.53:805][915]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.20.54:848][948]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.20.59:642][143]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.20.59:818][144]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.21.00:488][165]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.21.02:037][223]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.21.03:273][267]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.21.05:199][336]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.21.06:001][362]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.21.07:837][431]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.21.11:632][576]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.21.13:225][637]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.21.16:243][758]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.21.16:990][776]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.21.19:018][834]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.21.23:543][ 24]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.21.23:698][ 25]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.21.24:687][ 58]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.21.27:856][181]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.21.28:742][211]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.21.29:047][216]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.21.29:969][248]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.21.30:176][249]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.21.32:017][318]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.21.32:334][323]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.21.32:838][336]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.21.33:249][347]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.21.33:455][349]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.21.33:824][355]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.21.34:325][364]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.21.34:688][372]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.21.34:833][373]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.21.34:952][374]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.21.35:070][375]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.21.35:167][376]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.21.35:261][377]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.21.35:438][383]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.15-09.21.45:201][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.03.15-09.21.45:212][412]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ActionRogueLike/Maps/Level01/A/N8/TSVC8IIXO5KKPQIJPOWE8E_Auto1
+[2023.03.15-09.21.45:213][412]LogSavePackage: Moving 'F:/ActionRogueLike/Saved/TSVC8IIXO5KKPQIJPOWE8E_Auto105D9AC6647325180AD99098EFD18C9A8.tmp' to 'F:/ActionRogueLike/Saved/Autosaves/Game/__ExternalActors__/ActionRogueLike/Maps/Level01/A/N8/TSVC8IIXO5KKPQIJPOWE8E_Auto1.uasset'
+[2023.03.15-09.21.45:215][412]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ActionRogueLike/Maps/Level01' took 0.043
+[2023.03.15-09.21.45:215][412]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.043
